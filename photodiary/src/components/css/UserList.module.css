@@ -1,0 +1,27 @@
+/* UserList */
+.UserList{
+  font-family: Lexend;
+  font-size: 2.5rem;
+  margin-top: 7rem;
+  margin-bottom : 2rem;
+  text-align: center; 
+}
+
+.UserList span {
+  color: #6d31ed;
+}
+
+.UserListBox{
+  margin-bottom : 4rem;
+  padding : 4rem;
+}
+.UserListBox p{
+  display : inline-block;
+  font-family : Lexend;
+  font-size : 1rem;
+  color : black;
+  background-color : #eeeeee;
+  padding : 0.8rem 1rem;
+  border-radius: 0.3rem;
+  margin : 0.5rem;
+}

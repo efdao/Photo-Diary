@@ -1,0 +1,21 @@
+/* Footer */
+.Footer {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  align-items: center;
+  background-color: #1A0646;
+  color: #9095A1;
+  font-size: 0.8rem;
+  padding: 1rem;
+  margin-top: 1.875rem;
+}
+
+.Footer p {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Footer img {
+  height: 1.5rem;
+}

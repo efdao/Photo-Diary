@@ -1,0 +1,99 @@
+.navbar {
+  top: 0;
+  width: 100%;
+  position: relative;
+  background-color: white;
+  height: 4.75rem;
+}
+
+.navbaricon {
+  position: absolute;
+  top: 1.64rem;
+  left: 1.75rem;
+  width: 2.125rem;
+  height: 1.75rem;
+  cursor: pointer;
+}
+
+.signInContent1 {
+  margin-top: 1.31rem;
+  margin-bottom: 5.56rem;
+}
+
+.textBox1 {
+  text-align: left;
+  font-family: Lexend;
+  display: inline-block;
+  position: relative;
+  top: -7.5rem;
+}
+
+.textBox1 h3 {
+  font-size: 3.125rem;
+  margin: 0;
+}
+
+.textBox1 p {
+  font-size: 0.94rem;
+  margin: 0;
+  margin-left: 0.31rem;
+  padding: 0.13rem;
+  font-family: Manrope;
+  color: #9095a1;
+}
+
+.textBox1 button {
+  font-size: 1.06rem;
+  font-family: Manrope;
+  color: white;
+  margin-left: 0.31rem;
+  border: 0;
+  cursor: pointer;
+  border-radius: 0.25rem;
+  background-color: #6d31ed;
+  height: 3rem;
+  width: 8.75rem;
+}
+
+.mainImg1 {
+  width: 50rem;
+  height: 45rem;
+}
+
+.signInContent2 {
+  place-items: center;
+  display: grid;
+  grid-template-columns: 6fr 4fr;
+  background-color: #3F0EA6;
+  width: 100%;
+  height: 31.25rem;
+}
+
+.mainImg2 {
+  width: 45rem;
+  height: 25.63rem;
+}
+
+
+.textBox2 {
+  position: absolute;
+  right: 18.75rem;
+}
+
+.textBox2 h2 {
+  font-size: 2rem;
+  line-height: 3rem;
+  font-family: Lexend;
+  color: #fff;
+  text-align: left;
+}
+
+.textBox2 p {
+  margin: 0.13rem;
+  font-size: 1rem;
+  line-height: 1.63rem;
+  font-family: Manrope;
+  color: #fff;
+  text-align: left;
+}
+
